@@ -16,8 +16,9 @@ Today's challenge is to contribute to a Git repository, using branches and pull 
 I will either accept your pull request, or send you feedback on what you need to do to improve!
 
 ## Find Your Name Below!
+![Sad right now](https://media.giphy.com/media/ckGndVa23sCk9pae4l/giphy.gif)
 
-### Example
+### Mahum
 
 ![Bill Murray you got this from giphy](https://media.giphy.com/media/11F0d3IVhQbreE/giphy.gif)
 
@@ -25,6 +26,13 @@ I will either accept your pull request, or send you feedback on what you need to
 
 ![GIF of office, from giphy](https://media.giphy.com/media/8szve9QiAu0qePmtLE/giphy-downsized.gif)
 
+
 ### Stephanie
 
 ![GIF of Pedro from the Last of Us, from giphy](https://media.giphy.com/media/GrgfA6EkIN0mUQdZbX/giphy.gif)
+
+### Alvaro
+
+![GIF of woman drinking coffee, from giphy](https://media.giphy.com/media/hPTZgtzfRIB5Nfb5rL/giphy-downsized.gif)
+
+
