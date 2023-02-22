@@ -24,6 +24,6 @@ I will either accept your pull request, or send you feedback on what you need to
 
 ### Daniel
 
-![Beaker (Muppets) fire hazard from giphy](https://media.giphy.com/media/yfEjNtvqFBfTa/giphy.gif)
 
 ### JD
+![Beaker (Muppets) fire hazard from giphy](https://media.giphy.com/media/yfEjNtvqFBfTa/giphy.gif)
