@@ -28,4 +28,4 @@ I will either accept your pull request, or send you feedback on what you need to
 
 ### Kevin
 
-![GIF of Michael Scott from The Office saying "I like it"](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODE5MzRmM2VmNDUwNzU1YWZlYzFlNzMyMGUzOWQ0YTRmOWI5Y2JlNiZjdD1n/APqEbxBsVlkWSuFpth/giphy-downsized.gif)
+![GIF of confused child with floating complex math](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODE5MzRmM2VmNDUwNzU1YWZlYzFlNzMyMGUzOWQ0YTRmOWI5Y2JlNiZjdD1n/APqEbxBsVlkWSuFpth/giphy-downsized.gif)
