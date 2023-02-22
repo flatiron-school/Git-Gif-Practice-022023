@@ -23,5 +23,5 @@ I will either accept your pull request, or send you feedback on what you need to
 ![Bill Murray you got this from giphy](https://media.giphy.com/media/11F0d3IVhQbreE/giphy.gif)
 
 ### Keanan
-![GIF of Michael, from giphy] (https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjlkN2I1ODBjMDMzNDQzMzJhMTQ2MGIwODA2MTJmNzBkNDUyMzhjYiZjdD1n/FnXgJ5KG1DqhzD0dF6/giphy-downsized.gif)
+![GIF of Michael, from giphy](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjlkN2I1ODBjMDMzNDQzMzJhMTQ2MGIwODA2MTJmNzBkNDUyMzhjYiZjdD1n/FnXgJ5KG1DqhzD0dF6/giphy-downsized.gif)
 ### Daniel
