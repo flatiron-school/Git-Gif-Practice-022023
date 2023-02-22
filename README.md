@@ -23,3 +23,5 @@ I will either accept your pull request, or send you feedback on what you need to
 ![Bill Murray you got this from giphy](https://media.giphy.com/media/11F0d3IVhQbreE/giphy.gif)
 
 ### Daniel
+
+![GIF of office, from giphy](https://media.giphy.com/media/8szve9QiAu0qePmtLE/giphy-downsized.gif)
