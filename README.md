@@ -23,3 +23,7 @@ I will either accept your pull request, or send you feedback on what you need to
 ![Bill Murray you got this from giphy](https://media.giphy.com/media/11F0d3IVhQbreE/giphy.gif)
 
 ### Daniel
+
+![Sponge Bob](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWNhOTkxODlhMDI5ZGZjY2Q4YTUxMWE4ZjY4M2NkMWRjYzlmMjdmYyZjdD1n/10zsjaH4g0GgmY/giphy.gif)
+
+### Max
