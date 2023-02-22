@@ -9,8 +9,7 @@ Today's challenge is to contribute to a Git repository, using branches and pull 
 3. Create a new branch on your local repository (I recommend naming your branch after yourself, so my branch will be named _Daniel_)
 4. Find a GIF or image that summarizes how you're feeling today
 5. Copy the appropriate **Share** link (use small size if possible)
-5. Use Markdown syntax and a text editor to add the GIF or image to this README.md file **under your name**
-6. Add and commit your local changes to your branch
+5. Use Markdown syntax and a text editor to add the GIF or image to this README.md file **under your name** and commit your local changes to your branch
 7. Push **your branch** to this repository (this step will not work if you forgot to checkout a branch in step 2!)
 8. Start a pull request for me to review
 
@@ -28,7 +27,12 @@ I will either accept your pull request, or send you feedback on what you need to
 ![GIF of office, from giphy](https://media.giphy.com/media/8szve9QiAu0qePmtLE/giphy-downsized.gif)
 
 
+### Stephanie
+
+![GIF of Pedro from the Last of Us, from giphy](https://media.giphy.com/media/GrgfA6EkIN0mUQdZbX/giphy.gif)
+
 ### Alvaro
 
 ![GIF of woman drinking coffee, from giphy](https://media.giphy.com/media/hPTZgtzfRIB5Nfb5rL/giphy-downsized.gif)
+
 
