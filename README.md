@@ -25,3 +25,7 @@ I will either accept your pull request, or send you feedback on what you need to
 ### Daniel
 
 ![GIF of office, from giphy](https://media.giphy.com/media/8szve9QiAu0qePmtLE/giphy-downsized.gif)
+
+### Kevin
+
+![GIF of Michael Scott from The Office saying "I like it"](https://media.giphy.com/media/xoV4JZ3cBaSGngdxxl/giphy.gif)
