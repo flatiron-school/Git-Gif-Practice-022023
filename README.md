@@ -25,3 +25,7 @@ I will either accept your pull request, or send you feedback on what you need to
 ### Daniel
 
 ![GIF of office, from giphy](https://media.giphy.com/media/8szve9QiAu0qePmtLE/giphy-downsized.gif)
+
+### Alvaro
+
+![GIF of woman drinking coffee, from giphy](https://media.giphy.com/media/hPTZgtzfRIB5Nfb5rL/giphy-downsized.gif)
