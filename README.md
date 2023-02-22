@@ -25,3 +25,6 @@ I will either accept your pull request, or send you feedback on what you need to
 ### Daniel
 
 ![GIF of office, from giphy](https://media.giphy.com/media/8szve9QiAu0qePmtLE/giphy-downsized.gif)
+
+
+![Cute learning Space Doge floating around in space](https://media.giphy.com/media/SRx5tBBrTQOBi/giphy.gif)
